@@ -1,10 +1,7 @@
 - 👋 OI, Eu sou a @MariaEduarda2008-017
-- 
 - 👀 Eu gosto de jogos indies e programação
-- 
 - 🌱 Estou apreendendo Java Script
-- 
--🍓🍫 Fato legal sobre mim : meu doce favorito é morango com chocolate
+- 🍓🍫 Fato legal sobre mim : meu doce favorito é morango com chocolate
 
    
 <!---
