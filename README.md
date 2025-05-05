@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html and css 
 - 📫 How to reach me: linkedin.com/in/maria-eduarda-gonsalves-bezerra-rabelo-305b6b324
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i really like fps games 
+- ⚡ Fun fact: my favorite candy and strawberry with chocolate
 
 <!---
 MariaEduarda2008-017/MariaEduarda2008-017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
